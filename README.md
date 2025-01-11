@@ -6,6 +6,7 @@ We have pipelined the main processes into 5 stages namely Instruction fetch(IF),
 processor.v contains the code for the datapath <br> 
 processortb.v contains testbench with an example. <br>
 The waveform is shown in waveform of pipelined processor <br>
+Images of datapath and explanation of various instructions as well as architecture is present in 'Images' file
 
 To run use these command in terminal <br> 
 <ol>
